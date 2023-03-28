@@ -286,7 +286,7 @@ let IndexPage = () => {
           </svg>
           <div className="mx-10 mt-10 lg:mx-0 lg:w-1/3">
             <h2 className="font-bold">
-              <span className="whitespace-nowrap text-5xl text-gray-800">Биотоник Витграсс -</span>
+              <span className="lg:whitespace-nowrap text-5xl text-gray-800">Биотоник Витграсс -</span>
               <em className="mt-2 block text-2xl">помощник для школьника и студента</em>
             </h2>
             <div className="my-5 space-y-4">
